@@ -28,13 +28,13 @@ Run the Streamlit app:
 
 
 streamlit run weather_app.py
-Screenshots
+## Screenshots
 
-Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-For any questions or suggestions, please reach out to me on LinkedIn.
+## Contact
+For any questions or suggestions, please reach out to me on [LinkedIn](https://www.linkedin.com/in/inayat-rahim-b0655b29b/).
