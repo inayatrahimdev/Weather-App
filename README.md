@@ -20,7 +20,7 @@ This is a user-friendly and professional Weather Information App developed using
    git clone https://github.com/inayatrahimdev/Weather-App.git
 
 2. Navigate to the repository directory:
-bash
+   ```bash
 cd Weather-App
 
 ## Contributing
