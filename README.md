@@ -2,7 +2,7 @@
 
 🌦️ **Weather Information App** 🌦️
 
-This is a user-friendly and professional Weather Information App developed using Streamlit and the OpenWeatherMap API. It allows users to enter any city name and get up-to-date weather information along with real-time alerts for extreme weather conditions.
+This is a user-friendly and professional Weather Information App developed using Streamlit and the **OpenWeatherMap API**. It allows users to enter any city name and get up-to-date weather information along with real-time alerts for extreme weather conditions.
 
 ## Key Features
 - **Real-Time Weather Data**: Enter any city to get the current weather information.
