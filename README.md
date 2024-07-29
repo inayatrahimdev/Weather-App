@@ -18,18 +18,10 @@ This is a user-friendly and professional Weather Information App developed using
 1. Clone the repository:
    ```bash
    git clone https://github.com/inayatrahimdev/Weather-App.git
-Navigate to the repository directory:
 
+2. Navigate to the repository directory:
+bash
 cd Weather-App
-```bash
-Install the required packages:
-```bash
-pip install streamlit requests
-
-Run the Streamlit app:
-
-```bash
-streamlit run weather_app.py
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
