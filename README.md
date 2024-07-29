@@ -21,14 +21,15 @@ This is a user-friendly and professional Weather Information App developed using
 Navigate to the repository directory:
 
 cd Weather-App
+```bash
 Install the required packages:
-
+```bash
 pip install streamlit requests
+
 Run the Streamlit app:
 
-
+```bash
 streamlit run weather_app.py
-## Screenshots
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
