@@ -1,5 +1,6 @@
 # Weather Information App
-**Click Here:https://weather-app-twmmya2twrcg7rbhludyzd.streamlit.app/**
+**Click Here to Explore App:https://weather-app-twmmya2twrcg7rbhludyzd.streamlit.app/**
+
 🌦️ **Weather Information App** 🌦️
 
 This is a user-friendly and professional Weather Information App developed using Streamlit and the **OpenWeatherMap API**. It allows users to enter any city name and get up-to-date weather information along with real-time alerts for extreme weather conditions.
